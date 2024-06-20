@@ -4,7 +4,7 @@
 >>>>>Referencias ----> https://github.com/dylanaraps/neofetch
 ![image](https://i.imgur.com/mmUtcxk.png)
 
-[b]Todos os créditos citados na descrição
-Stay Safe enjoy.[/b]
+*Todos os créditos citados na descrição
+Stay Safe enjoy.*
 
 
